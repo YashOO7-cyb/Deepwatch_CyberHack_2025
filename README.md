@@ -46,7 +46,7 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/deepwatch-dashboard.git
+git clone https://github.com/YashOO7-cyb/Deepwatch_CyberHack_2025.git
 cd deepwatch-dashboard
 ```
 
